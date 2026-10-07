@@ -32,4 +32,4 @@ chmod +x health_check.sh
 
 Tested on Red Hat Enterprise Linux 10.1.
 
-![Sample output](sample-output.png)
+![Sample output](output.png)
